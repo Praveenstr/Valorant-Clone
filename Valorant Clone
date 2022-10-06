@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Valorant</title>
+    <style>
+      body {
+        background-image: url("/html\ images/bg.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+        border-radius: 50px;
+      }
+      iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      em {
+        color: red;
+        font-style: normal;
+      }
+      .sub {
+        color: rgb(71, 14, 71);
+      }
+      .topic {
+        text-align: center;
+        color: rgb(17, 162, 164);
+        text-decoration-line: underline;
+      }
+      #t1-valorant {
+        text-decoration-line: underline;
+      }
+      #t2-agents {
+        text-decoration-line: underline;
+      }
+      #t3-maps {
+        text-decoration-line: underline;
+      }
+      /*
+		.mail {
+        text-align: right;
+      } */
+    </style>
+  </head>
+
+  <body>
+    <h1 class="topic">VALORANT</h1>
+    <img src="/html images/valorant head.jpg" alt="Valorant Thumbnail" />
+
+    <h2 id="t1-valorant"><b>WE ARE VALORANT</b></h2>
+    <h3><b>DEFY THE LIMITS</b></h3>
+    <p>
+      Blend your style and experience on a global, competitive stage. You have
+      13 rounds to attack and defend your side using sharp gunplay and tactical
+      abilities. And, with one life per-round, you'll need to think faster than
+      your opponent if you want to survive. Take on foes across
+      <em>Competitive</em> and <em>Unranked modes</em> as well as
+      <em>Deathmatch</em> and <em>Spike Rush</em>.
+    </p>
+    <a
+      href="https://playvalorant.com/en-us/news/announcements/beginners-guide/"
+      target="_blank"
+      >LEARN THE GAME</a
+    >
+    <h3><b>Gameplay</b></h3>
+
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/le474A3jBxA"
+    >
+    </iframe>
+    <br />
+    <h2 id="t2-agents"><b>YOUR AGENTS</b></h2>
+    <h3><b>CREATIVITY IS YOUR GREATEST WEAPON.</b></h3>
+    <p class="sub">
+      More than guns and bullets, you’ll <em>choose an Agent</em> armed with
+      adaptive, swift, and lethal abilities that create opportunities to let
+      your gunplay shine. No two Agents play alike, just as no two highlight
+      reels will look the same.
+    </p>
+    <a href="https://playvalorant.com/en-us/agents/" target="_blank"
+      >VIEW ALL AGENTS</a
+    >
+    <br />
+    <h2 id="t3-maps"><b>YOUR MAPS</b></h2>
+    <h3><b>FIGHT AROUND THE WORLD.</b></h3>
+    <p>
+      Each map is a playground to showcase your creative thinking. Purpose-built
+      for team strategies, spectacular plays, and clutch moments. Make the play
+      others will imitate for years to come.
+    </p>
+    <a href="https://playvalorant.com/en-us/maps/" target="_blank"
+      >VIEW ALL MAPS</a
+    >
+    <p><a href="#">Jump to top</a></p>
+    <!--<p class="mail">
+      <a href="gmailto:praveenpkstr@gmail.com" target="_blank"> Mail to me</a>
+    </p> -->
+  </body>
+</html>
